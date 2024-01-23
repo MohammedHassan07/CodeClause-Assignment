@@ -6,6 +6,6 @@ internship in Jan 2024 provided from CodeClause
 Blog project is website build using HTMl, CSS, Javascript  
 in Forntend, For backend NodeJs, ExpressJs is used, MySQL is used as a database  
 
-## ToDo list
+### ToDo list
 Todo list is a website build using HTMl, CSS, Javascript.
 To save the data of the Todo list browser`s localStorage is used. 
